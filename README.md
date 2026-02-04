@@ -20,7 +20,7 @@ I build things at the intersection of mobile, machine learning, and hardware.
 **Languages:** Swift, Python, JavaScript  
 **ML/AI:** Custom model training, RAG, Vector DBs, Vision model fine-tuning  
 **Mobile:** iOS (SwiftUI, AVFoundation, Vision Framework, ML Kit)  
-**Hardware:** Jetson, Raspberry Pi, embedded systems
+**Hardware:** Jetson, IMU's, embedded systems
 
 ## Workshop Repos
 
