@@ -7,6 +7,7 @@ My engineering notes are at **[Vague, but exciting…](https://vaguebutexciting.
 ## Projects
 
 - **[Robo Bump Truck](https://github.com/12mv2/robo-bump-truck-build)** — a phone-camera RC truck built around a Jetson Orin and ArduPilot. The public V1 guide covers the physical build; powered commissioning and a reproducible autonomous controller package remain unfinished. [Read the project logs](https://vaguebutexciting.dev/posts/robot-lapped-kitchen-log3/).
+- **[Robot Eyes: Vision & Pose](https://apps.apple.com/us/app/robot-eyes-vision-pose/id6813734887)** — my published iPhone app for recording camera video, LiDAR, motion sensors and ARKit pose, built for robotics experiments and dataset collection.
 - **[ROS 2 control interface](https://github.com/12mv2/robo-bump-truck-ros)** — message definitions, examples and an outputs-disabled bridge. The repository documents its software tests and what still needs testing on the truck.
 - **Run Fun and Stride** — I’m exploring how phone video, wearable motion capture, edge cameras and visual analysis can make running movement easier to understand.
 - **[Apple fixes](https://github.com/12mv2/apple-fixes)** — dated troubleshooting records for developers and agents, with exact errors, evidence and correction history.
